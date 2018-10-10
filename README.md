@@ -21,7 +21,7 @@ After running several queries of zipcode we found that zipcode was not as dynami
 -There are a variety of important librarys that were utilized in the code which can be seen at the beginning of each code segment.-
 
 This project was developed by:
-- Allison Regan https://www.linkedin.com/in/allison-ragan/
+- Allison Ragan https://www.linkedin.com/in/allison-ragan/
   allison.n.ragan@gmail.com
 - Erik Green https://www.linkedin.com/in/erikgreenj/
   erikgreenj@gmail.com 
